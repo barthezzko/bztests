@@ -9,7 +9,7 @@ public class MethodOverloading {
         average(12.5, -4.78, 39.04);
         average(3.3, 4.4, 5.5);
         //average(6, 10, 14, 20); - ambigous 1 with 3
-        average();
+        //average();
 
     }
 
